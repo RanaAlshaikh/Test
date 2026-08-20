@@ -1,0 +1,1 @@
+- Sadeem AlBoqami, I want to master Edge AI and MLOps deployment
